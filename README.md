@@ -13,7 +13,7 @@ Il faudra bien garder en tête que le but est que notre site soit mieux classé 
 
 ## Projet
 - Site non optimiser trouvable à l'adresse suivante : https://barthrachel.github.io/La_Panthere_Test/   /// https://github.com/barthRachel/La_Panthere_Test
-- Ce repo Github : contient le site optimiser
+- Ce repo Github : contient le code source du site optimisé
 - Google Sheet contenant l'analyse SEO + les choix selectionner par moi-même : https://docs.google.com/spreadsheets/d/10mGUWmwmFdPYjkL_-YRLRvPt8Ssmbsh6kZDhsaUnlcU/edit?usp=sharing
 - Rapport d'optimisation : https://docs.google.com/document/d/1aPCP8y9PJ1-VWpfAr26M6dfiDWkzDeyDnnrYRPLcoFU/edit?usp=sharing
 
